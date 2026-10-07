@@ -4,7 +4,7 @@ les 5 MA SD
 ## toevoegen
 toevoegen toevoegen toevoegen
 
-[naar school] (https://www.ma-web.nl/)
+[naar school] https://www.ma-web.nl/
 
-[leuk plaatje] (https://www.google.com/search?q=private+penguin&newwindow=1&client=firefox-b-d&hs=aklq&sca_esv=545ff8be9a415e69&udm=2&biw=1536&bih=731&sxsrf=APpeQnuZrPl4b7h7FJM2mjCGSeZJ4hgQ0w%3A1791361889194&ei=YQPGasGzC92L9u8Pn_f-WA&ved=2ahUKEwiB6MaIv6eXAxXdhf0HHZ-7HwsQ4dUDegQIBhAN&uact=5&oq=private+penguin&gs_lp=Egtnd3Mtd2l6LWltZyIPcHJpdmF0ZSBwZW5ndWluMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHkiEJFCKDFjfIXABeACQAQCYAU-gAaUFqgECMTW4AQPIAQD4AQGYAhCgAvEFwgIKEAAYgAQYigUYQ8ICBhAAGAcYHsICBxAAGIAEGArCAggQABgHGB4YCsICBxAjGMkCGCfCAgsQABiABBixAxiDAcICCBAAGIAEGLEDwgIOEAAYgAQYigUYsQMYgwGYAwCIBgGSBwIxNqAH306yBwIxNbgH6QXCBwUwLjcuOcgHMYAIAQ&sclient=gws-wiz-img#sv=CAMSUxoyKhBlLW5PdkVUMk55N0pMV1JNMg5uT3ZFVDJOeTdKTFdSTToOQ25CczBkbGMwdTVzRU0gBCoXCgFzEhBlLW5PdkVUMk55N0pMV1JNGAEwAVACGAcg29f1vwFKCBACGAEgAigB)
+[leuk plaatje] (https://static.wikia.nocookie.net/penguinsofmadagascar/images/3/36/Private01.png/revision/latest/scale-to-width/360?cb=20150111190509)
 
