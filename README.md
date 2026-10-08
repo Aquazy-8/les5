@@ -14,22 +14,23 @@ Lorem ipsum, blablabla
 
 [Click here to transfurry to recipe urself] (https://www.ah.nl/allerhande/recept/R-R1302917/panlasagne-met-zalm-en-broccoli)
 
-Ingredients list for 4 potions:
-2 medium unyuns
-3 toes carlick
-2 eatspoons of mild olive oyl
-250g freezed samun filley
-200g diarea spread natural
-600ml wauh
-1 full wheel of chess
-10 lassahguhnah shits
-500grammys brokeohliey 
-5 grandmas fresh dills
-8 bbbbbbbb's (adds a bit of stingie flayvuah)
+* Ingredients list for 4 potions:
+* 2 medium unyuns
+* 3 toes carlick
+* 2 eatspoons of mild olive oyl
+* 250g freezed samun filley
+* 200g diarea spread natural
+* 600ml wauh
+* 1 full wheel of chess
+* 10 lassahguhnah shits
+* 500grammys brokeohliey 
+* 5 grandmas fresh dills
+* 8 bbbbbbbb's (adds a bit of stingie flayvuah)
 
-YOU NEED THIS (throws pan)
-(and then u cook it with a pan🎶)
+* YOU NEED THIS (throws pan)
+* (and then u cook it with a pan🎶)
 
+## Instructions
 1
 Cut the unyuns into half rings and the carlick finely. Heat the oyl in the pan over medium heat and frie the unyun and carlick for 5 minutes.
 
