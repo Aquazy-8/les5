@@ -18,7 +18,7 @@ Lorem ipsum, blablabla
 * 250g freezed samun filley
 * 200g diarea spread natural
 * 600ml wauh
-* 1 full wheel of chess
+* 1 full will of chess
 * 10 lassahguhnah shits
 * 500grammys brokeohliey 
 * 5 grandmas fresh dills
