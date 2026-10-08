@@ -7,7 +7,7 @@ Lorem ipsum, blablabla
 
 [MediaCollegeAmsterdam](https://www.ma-web.nl/)
 
-## Recipe seman
+# Recipe seman
 
 [Click here to transfurry to recipe urself](https://www.ah.nl/allerhande/recept/R-R1302917/panlasagne-met-zalm-en-broccoli)
 
@@ -27,7 +27,7 @@ Lorem ipsum, blablabla
 YOU NEED THIS (throws pan)
 (and then u cook it with a pan🎶)
 
-## Instructions
+### Instructions
 1
 Cut the unyuns into half rings and the carlick finely. Heat the oyl in the pan over medium heat and frie the unyun and carlick for 5 minutes.
 
