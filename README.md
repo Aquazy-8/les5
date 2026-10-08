@@ -27,8 +27,8 @@ Lorem ipsum, blablabla
 * 5 grandmas fresh dills
 * 8 bbbbbbbb's (adds a bit of stingie flayvuah)
 
-* YOU NEED THIS (throws pan)
-* (and then u cook it with a pan🎶)
+YOU NEED THIS (throws pan)
+(and then u cook it with a pan🎶)
 
 ## Instructions
 1
