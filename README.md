@@ -7,7 +7,7 @@ Lorem ipsum, blablabla
 
 [MediaCollegeAmsterdam](https://www.ma-web.nl/)
 
-## Recipe seamen
+## Recipe seman
 
 [Click here to transfurry to recipe urself](https://www.ah.nl/allerhande/recept/R-R1302917/panlasagne-met-zalm-en-broccoli)
 
