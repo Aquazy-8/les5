@@ -1,20 +1,16 @@
-# les5
-les 5 MA SD 
-
 ## Info
 Lorem ipsum, blablabla
 
 ## Links
-
 [MediaCollegeAmsterdam](https://www.ma-web.nl/)
 
 ![leuk plaatje](https://static.wikia.nocookie.net/penguinsofmadagascar/images/3/36/Private01.png/revision/latest/scale-to-width/360?cb=20150111190509)
 
 ## Recipe seamen
 
-[Click here to transfurry to recipe urself] (https://www.ah.nl/allerhande/recept/R-R1302917/panlasagne-met-zalm-en-broccoli)
+[Click here to transfurry to recipe urself](https://www.ah.nl/allerhande/recept/R-R1302917/panlasagne-met-zalm-en-broccoli)
 
-* Ingredients list for 4 potions:
+## Ingredients list for 4 potions:
 * 2 medium unyuns
 * 3 toes carlick
 * 2 eatspoons of mild olive oyl
